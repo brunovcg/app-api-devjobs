@@ -10,7 +10,11 @@ app.db = router.db;
 
 const rules = auth.rewriter({
   "users*":"/600/users$1",
-  "resumes*": "/664/resumes$1",
+  "sumary*": "/664/sumary$1",
+  "education*": "/664/education$1",
+  "experience*": "/664/experience$1",
+  "techskills*": "/664/techskills$1",
+  "otherskills*": "/664/otherskills$1",
   "messages*": "/messages$1",
   "companies*":"/600/companies$1"
 });

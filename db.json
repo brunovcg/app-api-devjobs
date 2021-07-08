@@ -21,39 +21,57 @@
       "id": 2
     }
   ], 
-  "resumes": [
+  "sumary": [
     {
       "id": 1,
       "userId": 1,
-      "objective": "Objetivo test",
-      "education": [
-        {
-          "id": 1,
-          "degree": "Superior Adm",
-          "school": "USP",
-          "dateFrom": "10/02/20",
-          "dateTo": "Atualmente",
-          "description": "Lorem Ipsum"
-        }
-      ],
-      "experience": [
-        {
-          "id": 1,
-          "role": "Developer",
-          "company": "Kenzie",
-          "dateFrom": "10/02/20",
-          "dateTo": "Atualmente",
-          "description": "Lorem Ipsum"
-        }
-      ],
-      "techSkills": [
-        "JS",
-        "Python"
-      ],
-      "otherSkills": [
-        "Boa comunicação", 
-        "Ingles"
-      ]
+      "objective": "Objetivo test"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "userId": 1,
+      "degree": "Superior Adm",
+      "school": "USP",
+      "dateFrom": "10/02/20",
+      "dateTo": "Atualmente",
+      "description": "Lorem Ipsum"
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "userId": 1,
+      "role": "Developer",
+      "company": "Kenzie",
+      "dateFrom": "10/02/20",
+      "dateTo": "Atualmente",
+      "description": "Lorem Ipsum"
+    }
+  ],
+  "techSkills": [
+    {
+      "id": 1,
+      "userId": 1,
+      "description": "JS"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "description": "Python"
+    }
+  ],
+  "otherSkills": [
+    {
+      "id": 1,
+      "userId": 1,
+      "description": "Boa comunicação"
+    },
+    {
+      "id": 1,
+      "userId": 1,
+      "description": "Ingles"
     }
   ],
   "messages": [
@@ -68,7 +86,8 @@
     {
       "id": 1,
       "email": "teste@tese.com",
-      "password": "$2a$10$DkGtHlfXpUmENSFTo.8M7uh.pwUCaUsHoyQ.HJ3ORmJ5gncjc.qe6"
+      "password": "$2a$10$DkGtHlfXpUmENSFTo.8M7uh.pwUCaUsHoyQ.HJ3ORmJ5gncjc.qe6",
+      "companyName": "Kenzie"
     }
   ]
 }
