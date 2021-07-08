@@ -1,4 +1,6 @@
 {
     "users*":"/600/users$1",
-    "/products*":"/640/products$1"
+    "resumes*": "/664/resumes$1",
+    "messages*": "/messages$1",
+    "companies*":"/600/companies$1"
 }
