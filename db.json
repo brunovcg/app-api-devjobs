@@ -5,6 +5,7 @@
       "password": "$2a$10$eFmCPmPsaWpbymqbn5R/iOtIVLIhKi4kqvkZv2HYVQT7Z7IgpvXdO",
       "fisrtName": "Filipe",
       "lastName": "Shaw",
+      "birthDate": "02/02/1988",
       "linkedinProfile": "",
       "address": "",
       "phone": "99999999",
@@ -15,6 +16,7 @@
       "password": "$2a$10$DkGtHlfXpUmENSFTo.8M7uh.pwUCaUsHoyQ.HJ3ORmJ5gncjc.qe6",
       "firstName": "Luigi",
       "lastName": "Silva",
+      "birthDate": "10/02/1985",
       "linkedinProfile": "",
       "address": "",
       "phone": "99999999",
@@ -25,7 +27,11 @@
     {
       "id": 1,
       "userId": 1,
-      "objective": "Objetivo test"
+      "objective": "Objetivo test",
+      "city": "São Paulo",
+      "speciality": "Dev Junior",
+      "disponibility": "Full time",
+      "experienceTime": "2 years"
     }
   ],
   "education": [
