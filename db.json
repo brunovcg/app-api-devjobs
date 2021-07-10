@@ -60,24 +60,28 @@
     {
       "id": 1,
       "userId": 1,
-      "description": "JS"
+      "description": "JS",
+      "level": "Beginner"
     },
     {
       "id": 2,
       "userId": 1,
-      "description": "Python"
+      "description": "Python",
+      "level": "Intermediate"
     }
   ],
   "otherSkills": [
     {
       "id": 1,
       "userId": 1,
-      "description": "Boa comunicação"
+      "description": "Boa comunicação",
+      "level": "Advanced"
     },
     {
       "id": 1,
       "userId": 1,
-      "description": "Ingles"
+      "description": "Ingles",
+      "level": "Beginner"
     }
   ],
   "messages": [
