@@ -3,13 +3,23 @@
     {
       "email": "filipe@mail.com",
       "password": "$2a$10$eFmCPmPsaWpbymqbn5R/iOtIVLIhKi4kqvkZv2HYVQT7Z7IgpvXdO",
-      "fisrtName": "Filipe",
+      "firstName": "Filipe",
       "lastName": "Shaw",
       "birthDate": "02/02/1988",
       "linkedinProfile": "",
       "address": "",
       "phone": "99999999",
-      "id": 1
+      "color": "var(--blue)",
+      "id": 1,
+      "sumary": [
+        {
+          "objective": "Back-End",
+          "city": "São Paulo",
+          "speciality": "Dev Junior",
+          "disponibility": "Full time",
+          "experienceTime": "1 year"
+        }
+      ]
     },
     {
       "email": "luigi@mail.com",
@@ -20,20 +30,19 @@
       "linkedinProfile": "",
       "address": "",
       "phone": "99999999",
-      "id": 2
+      "color": "var(--blue)",
+      "id": 2,
+      "sumary": [
+        {
+          "objective": "Front-End",
+          "city": "Curitiba",
+          "speciality": "Dev Junior",
+          "disponibility": "Full Time",
+          "experienceTime": "2 years"
+        }
+      ]
     }
   ], 
-  "sumary": [
-    {
-      "id": 1,
-      "userId": 1,
-      "objective": "Objetivo test",
-      "city": "São Paulo",
-      "speciality": "Dev Junior",
-      "disponibility": "Full time",
-      "experienceTime": "2 years"
-    }
-  ],
   "education": [
     {
       "id": 1,
