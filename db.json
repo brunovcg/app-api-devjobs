@@ -11,15 +11,13 @@
       "phone": "99999999",
       "color": "var(--blue)",
       "id": 1,
-      "summary": [
-        {
-          "objective": "Back-End",
-          "city": "São Paulo",
-          "speciality": "Dev Junior",
-          "disponibility": "Full time",
-          "experienceTime": 12
-        }
-      ]
+      "summary": {
+        "objective": "Back-End",
+        "city": "São Paulo",
+        "speciality": "Dev Junior",
+        "disponibility": "Full time",
+        "experienceTime": 12
+      }
     },
     {
       "email": "luigi@mail.com",
@@ -32,15 +30,13 @@
       "phone": "99999999",
       "color": "var(--blue)",
       "id": 2,
-      "summary": [
-        {
-          "objective": "Front-End",
-          "city": "Curitiba",
-          "speciality": "Dev Junior",
-          "disponibility": "Full Time",
-          "experienceTime": 24
-        }
-      ]
+      "summary": {
+        "objective": "Front-End",
+        "city": "Curitiba",
+        "speciality": "Dev Junior",
+        "disponibility": "Full Time",
+        "experienceTime": 24
+      }
     }
   ], 
   "education": [
