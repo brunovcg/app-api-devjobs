@@ -17,7 +17,7 @@
           "city": "São Paulo",
           "speciality": "Dev Junior",
           "disponibility": "Full time",
-          "experienceTime": "1 year"
+          "experienceTime": 12
         }
       ]
     },
@@ -38,7 +38,7 @@
           "city": "Curitiba",
           "speciality": "Dev Junior",
           "disponibility": "Full Time",
-          "experienceTime": "2 years"
+          "experienceTime": 24
         }
       ]
     }
