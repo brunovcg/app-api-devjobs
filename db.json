@@ -11,7 +11,7 @@
       "phone": "99999999",
       "color": "var(--blue)",
       "id": 1,
-      "sumary": [
+      "summary": [
         {
           "objective": "Back-End",
           "city": "São Paulo",
@@ -32,7 +32,7 @@
       "phone": "99999999",
       "color": "var(--blue)",
       "id": 2,
-      "sumary": [
+      "summary": [
         {
           "objective": "Front-End",
           "city": "Curitiba",
