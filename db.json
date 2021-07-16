@@ -187,73 +187,73 @@
   "techSkills": [
     {
       "id": 1,
-      "userId": "1",
+      "userId": 1,
       "description": "React",
       "level": "Beginner"
     },
     {
       "id": 2,
-      "userId": "2",
+      "userId": 2,
       "description": "React",
       "level": "Beginner"
     },
     {
       "id": 3,
-      "userId": "3",
+      "userId": 3,
       "description": "React",
       "level": "Beginner"
     },
     {
       "id": 4,
-      "userId": "4",
+      "userId": 4,
       "description": "React",
       "level": "Beginner"
     },
     {
       "id": 5,
-      "userId": "5",
+      "userId": 5,
       "description": "React",
       "level": "Beginner"
     },
     {
       "id": 6,
-      "userId": "6",
+      "userId": 6,
       "description": "React",
       "level": "Beginner"
     },
     {
       "id": 7,
-      "userId": "7",
+      "userId": 7,
       "description": "React",
       "level": "Beginner"
     },
     {
       "id": 8,
-      "userId": "8",
+      "userId": 8,
       "description": "React",
       "level": "Beginner"
     },
     {
       "id": 9,
-      "userId": "9",
+      "userId": 9,
       "description": "React",
       "level": "Beginner"
     },
     {
       "id": 10,
-      "userId": "10",
+      "userId": 10,
       "description": "React",
       "level": "Beginner"
     },
     {
-      "id": 13,
-      "userId": "11",
+      "id": 11,
+      "userId": 11,
       "description": "React",
       "level": "Beginner"
     },
     {
       "id": 12,
-      "userId": "12",
+      "userId": 12,
       "description": "React",
       "level": "Beginner"
     }
