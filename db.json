@@ -6,9 +6,9 @@
       "firstName": "Filipe",
       "lastName": "Shaw",
       "birthDate": "02/02/1988",
-      "linkedinProfile": "",
+      "linkedinProfile": "/felipeshaw",
       "address": "",
-      "phone": "99999999",
+      "phone": "(12)9999-9999",
       "color": "var(--blue)",
       "id": 1,
       "objective": "loremIpsum asdjahdk ak dahsjkd has jdhaskj dhakjshd jkas dhj"
@@ -17,16 +17,151 @@
       "email": "luigi@mail.com",
       "password": "$2a$10$DkGtHlfXpUmENSFTo.8M7uh.pwUCaUsHoyQ.HJ3ORmJ5gncjc.qe6",
       "firstName": "Luigi",
-      "lastName": "Silva",
+      "lastName": "Henrique",
       "birthDate": "10/02/1985",
-      "linkedinProfile": "",
+      "linkedinProfile": "/luigihenrique",
       "address": "",
-      "phone": "99999999",
+      "phone": "(71)9999-9999",
       "color": "var(--blue)",
       "id": 2,
       "objective": "loremIpsum asdjahdk ak dahsjkd has jdhaskj dhakjshd jkas dhj"
+    },
+    {
+      "email": "marcos@mail.com",
+      "password": "$2a$10$DkGtHlfXpUmENSFTo.8M7uh.pwUCaUsHoyQ.HJ3ORmJ5gncjc.qe6",
+      "firstName": "Marcos",
+      "lastName": "Silva",
+      "birthDate": "10/02/1975",
+      "linkedinProfile": "/marcossilva",
+      "address": "",
+      "phone": "(11)9999-9999",
+      "color": "var(--blue)",
+      "id": 3,
+      "objective": "loremIpsum asdjahdk ak dahsjkd has jdhaskj dhakjshd jkas dhj"
+    },
+    {
+      "email": "pedro@mail.com",
+      "password": "$2a$10$DkGtHlfXpUmENSFTo.8M7uh.pwUCaUsHoyQ.HJ3ORmJ5gncjc.qe6",
+      "firstName": "Pedro",
+      "lastName": "Augusto",
+      "birthDate": "10/02/1995",
+      "linkedinProfile": "/pedroaugusto",
+      "address": "",
+      "phone": "(81)9999-9999",
+      "color": "var(--blue)",
+      "id": 4,
+      "objective": "loremIpsum asdjahdk ak dahsjkd has jdhaskj dhakjshd jkas dhj"
+    },
+    {
+      "email": "marcos@mail.com",
+      "password": "$2a$10$DkGtHlfXpUmENSFTo.8M7uh.pwUCaUsHoyQ.HJ3ORmJ5gncjc.qe6",
+      "firstName": "Marcos",
+      "lastName": "Silva",
+      "birthDate": "10/02/1995",
+      "linkedinProfile": "",
+      "address": "",
+      "phone": "(81)9999-9999",
+      "color": "var(--blue)",
+      "id": 4,
+      "objective": "loremIpsum asdjahdk ak dahsjkd has jdhaskj dhakjshd jkas dhj"
+    },
+    {
+      "email": "maria@mail.com",
+      "password": "$2a$10$QQv.eOiNpfeIN0qYd/dF5e/IxKK9k5.9veECHkJu8OQZIxf1oy29C",
+      "firstName": "Maria",
+      "lastName": "Santos",
+      "birthDate": "1998-11-11T03:06:28.000Z",
+      "linkedinProfile": "",
+      "address": "Av. Água Verde, 1331",
+      "phone": "(41)998554478",
+      "objective": "",
+      "id": 5
+    },
+    {
+      "email": "eduardo@mail.com",
+      "password": "$2a$10$QQv.eOiNpfeIN0qYd/dF5e/IxKK9k5.9veECHkJu8OQZIxf1oy29C",
+      "firstName": "Eduardo",
+      "lastName": "Pereira",
+      "birthDate": "1999-10-09T03:06:28.000Z",
+      "linkedinProfile": "",
+      "address": "Rua Brigadeiro Franco, 1221",
+      "phone": "(41)998555858",
+      "objective": "",
+      "id": 6
+    },
+    {
+      "email": "larissa@mail.com",
+      "password": "$2a$10$QQv.eOiNpfeIN0qYd/dF5e/IxKK9k5.9veECHkJu8OQZIxf1oy29C",
+      "firstName": "Larissa",
+      "lastName": "Gonçalves",
+      "birthDate": "1995-08-07T03:06:28.000Z",
+      "linkedinProfile": "",
+      "address": "Rua Manuel Figueira, 343",
+      "phone": "(41)99875548",
+      "objective": "",
+      "id": 7
+    },
+    {
+      "email": "larissa@mail.com",
+      "password": "$2a$10$QQv.eOiNpfeIN0qYd/dF5e/IxKK9k5.9veECHkJu8OQZIxf1oy29C",
+      "firstName": "Larissa",
+      "lastName": "Gonçalves",
+      "birthDate": "1995-08-07T03:06:28.000Z",
+      "linkedinProfile": "",
+      "address": "Rua Manuel Figueira, 343",
+      "phone": "(41)99875548",
+      "objective": "",
+      "id": 8
+    },
+    {
+      "email": "fabiana@mail.com",
+      "password": "$2a$10$QQv.eOiNpfeIN0qYd/dF5e/IxKK9k5.9veECHkJu8OQZIxf1oy29C",
+      "firstName": "Fabiana",
+      "lastName": "Matos",
+      "birthDate": "1997-05-02T03:06:28.000Z",
+      "linkedinProfile": "",
+      "address": "Rua Coronel Araújo, 435",
+      "phone": "(41)998754462",
+      "objective": "",
+      "id": 9
+    },
+    {
+      "email": "larissa@mail.com",
+      "password": "$2a$10$QQv.eOiNpfeIN0qYd/dF5e/IxKK9k5.9veECHkJu8OQZIxf1oy29C",
+      "firstName": "Larissa",
+      "lastName": "Gonçalves",
+      "birthDate": "1995-08-07T03:06:28.000Z",
+      "linkedinProfile": "",
+      "address": "Rua Manuel Figueira, 343",
+      "phone": "(41)99875548",
+      "objective": "",
+      "id": 10
+    },
+    {
+      "email": "ricardo@mail.com",
+      "password": "$2a$10$QQv.eOiNpfeIN0qYd/dF5e/IxKK9k5.9veECHkJu8OQZIxf1oy29C",
+      "firstName": "Ricardo",
+      "lastName": "Andrade",
+      "birthDate": "1992-09-01T03:06:28.000Z",
+      "linkedinProfile": "",
+      "address": "Rua Bento Viana, 32",
+      "phone": "(41)992547789",
+      "objective": "",
+      "id": 11
+    },
+    {
+      "email": "guilherme@mail.com",
+      "password": "$2a$10$QQv.eOiNpfeIN0qYd/dF5e/IxKK9k5.9veECHkJu8OQZIxf1oy29C",
+      "firstName": "Guilherme",
+      "lastName": "Pereira",
+      "birthDate": "1993-04-03T03:06:28.000Z",
+      "linkedinProfile": "",
+      "address": "Rua Luís do Maranhão, 43",
+      "phone": "(41)994576682",
+      "objective": "",
+      "id": 12
     }
-  ], 
+  ],
   "education": [
     {
       "id": 1,
@@ -52,15 +187,75 @@
   "techSkills": [
     {
       "id": 1,
-      "userId": 1,
-      "description": "JS",
+      "userId": "1",
+      "description": "React",
       "level": "Beginner"
     },
     {
       "id": 2,
-      "userId": 1,
-      "description": "Python",
-      "level": "Intermediate"
+      "userId": "2",
+      "description": "React",
+      "level": "Beginner"
+    },
+    {
+      "id": 3,
+      "userId": "3",
+      "description": "React",
+      "level": "Beginner"
+    },
+    {
+      "id": 4,
+      "userId": "4",
+      "description": "React",
+      "level": "Beginner"
+    },
+    {
+      "id": 5,
+      "userId": "5",
+      "description": "React",
+      "level": "Beginner"
+    },
+    {
+      "id": 6,
+      "userId": "6",
+      "description": "React",
+      "level": "Beginner"
+    },
+    {
+      "id": 7,
+      "userId": "7",
+      "description": "React",
+      "level": "Beginner"
+    },
+    {
+      "id": 8,
+      "userId": "8",
+      "description": "React",
+      "level": "Beginner"
+    },
+    {
+      "id": 9,
+      "userId": "9",
+      "description": "React",
+      "level": "Beginner"
+    },
+    {
+      "id": 10,
+      "userId": "10",
+      "description": "React",
+      "level": "Beginner"
+    },
+    {
+      "id": 13,
+      "userId": "11",
+      "description": "React",
+      "level": "Beginner"
+    },
+    {
+      "id": 12,
+      "userId": "12",
+      "description": "React",
+      "level": "Beginner"
     }
   ],
   "otherSkills": [
